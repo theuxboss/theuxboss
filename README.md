@@ -1,11 +1,3 @@
-
-
-### THE UX BOSS  
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/109731548?v=4" align="center" style="width: 100%" />
-</div>  
-  
-
 ### My name is Stephen and I am a full-time machine learning engineer. Currently, I am pursuing my MSc in Data Science.  
   
 
